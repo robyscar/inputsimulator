@@ -1,5 +1,8 @@
 Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)
 ============================================================================
+
+https://github.com/TChatzigiannakis/InputSimulatorPlus
+
 The Windows Input Simulator provides a simple .NET (C#) interface to simulate Keyboard or Mouse input using the Win32 SendInput method. All of the Interop is done for you and there's a simple programming model for sending multiple keystrokes.
 
 Windows Forms provides the SendKeys method which can simulate text entry, but not actual key strokes. Windows Input Simulator can be used in WPF, Windows Forms and Console Applications to synthesize or simulate any Keyboard input including Control, Alt, Shift, Tab, Enter, Space, Backspace, the Windows Key, Caps Lock, Num Lock, Scroll Lock, Volume Up/Down and Mute, Web, Mail, Search, Favorites, Function Keys, Back and Forward navigation keys, Programmable keys and any other key defined in the Virtual Key table. It provides a simple API to simulate text entry, key down, key up, key press and complex modified key strokes and chords.
