@@ -1,5 +1,7 @@
 Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)
 ============================================================================
+https://github.com/GregsStack/InputSimulatorStandard
+forked from 
 https://github.com/michaelnoonan/inputsimulator
 forked from 
 https://github.com/TChatzigiannakis/InputSimulatorPlus
